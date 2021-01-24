@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "javier"
+    }
+  },
+  "defaultProject": "javier",
+  "cli": {
+    "analytics": false
+  }
 }
