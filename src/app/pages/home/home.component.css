@@ -1,3 +1,7 @@
 .art-banner-photo {
     width: 26% !important;
 }
+
+.color-change{
+    display: none;
+}
